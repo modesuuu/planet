@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/planet/static/css/main.8f870908.css",
+    "main.js": "/planet/static/js/main.da09f631.js",
+    "static/js/453.a0345f9e.chunk.js": "/planet/static/js/453.a0345f9e.chunk.js",
+    "static/media/ea.gif": "/planet/static/media/ea.31cadf36cc5f8a18b81b.gif",
+    "static/media/vs.gif": "/planet/static/media/vs.684958ebaad5b22c810d.gif",
+    "static/media/np.gif": "/planet/static/media/np.87a4bd81d073ca3815db.gif",
+    "static/media/jp.gif": "/planet/static/media/jp.f59c7a47677d7b4a7ef0.gif",
+    "static/media/ms.gif": "/planet/static/media/ms.6e712637301705daa673.gif",
+    "static/media/ur.gif": "/planet/static/media/ur.94e6fff999efe35d3e6b.gif",
+    "static/media/mr.gif": "/planet/static/media/mr.a897b7cf92bb5e1efd1b.gif",
+    "static/media/st.gif": "/planet/static/media/st.219a23bf783958dedc94.gif",
+    "index.html": "/planet/index.html",
+    "main.8f870908.css.map": "/planet/static/css/main.8f870908.css.map",
+    "main.da09f631.js.map": "/planet/static/js/main.da09f631.js.map",
+    "453.a0345f9e.chunk.js.map": "/planet/static/js/453.a0345f9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f870908.css",
+    "static/js/main.da09f631.js"
+  ]
+}
