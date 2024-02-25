@@ -56,7 +56,7 @@ export default function Main({planet, onBack}){
     return(
       <>
       <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'/>
-        <section className="h-screen bg-main-blue overflow-y-hidden">
+        <section className="h-screen bg-main-blue">
             <section className="container px-4 lg:px-16 lg:py-6  py-2 top-0 ">
               <div className=" flex justify-between items-center">
                 <div className="flex flex-col ">
